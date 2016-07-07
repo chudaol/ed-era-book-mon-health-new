@@ -5,7 +5,7 @@
 
 <table width="100%" border="0" bordercolor="0" cellpadding="0" cellspacing="0">
   <tr border="0" bordercolor="0">
-    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" height="150" width="400" src="9.jpg"/></div></td>
+    <td border="0" bordercolor="0"><div valign="bottom"><img class="image" src="9.jpg" style="width: 420px; height: auto;"/></div></td>
     <td valign="bottom" border="0" bordercolor="0"><b>Хитра Зоя Михайлівна</b>
     <br>
 <i>Викладач Університетського коледжу Київського університету ім. Б. Грінченка, модератор з основ здоровʼя</i></td>
