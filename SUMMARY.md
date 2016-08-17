@@ -1,7 +1,11 @@
 ### Вступ
 
 * [Вступна частина](README.md)
-* [Опис ключових змін  до проекту оновленої  програми](opus_zmyn.md)
+* [Загальнонавчальні уміння і навички](zagalnonavchalny_umynnua_ta_navychky.md)
+  * [1 клас](1_klas.md)
+  * [2 клас](2_klas.md)
+  * [3 клас](3_klas.md)
+  * [4 клас](4_klas.md)
 * [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 
